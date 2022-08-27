@@ -77,4 +77,6 @@ _____________________
 
 ## Ответ
 
+[docker](https://github.com/davlyatov-ts/virt-3/blob/master/docker.png)
+___________________
 
