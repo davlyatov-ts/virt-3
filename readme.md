@@ -80,3 +80,12 @@ _____________________
 [docker](https://github.com/davlyatov-ts/virt-3/blob/master/docker.png)
 ___________________
 
+# Задача 4
+
+Воспроизвести практическую часть лекции самостоятельно.<br>
+
+Соберите Docker образ с Ansible, загрузите на Docker Hub и пришлите ссылку вместе с остальными ответами к задачам.<br>
+
+## Ответ
+
+[ansible](https://hub.docker.com/repository/docker/davlyatov/ansible)
