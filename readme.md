@@ -14,6 +14,8 @@ Hey, Netology
 </body>
 </html>
 ```
+Опубликуйте созданный форк в своем репозитории и предоставьте ответ в виде ссылки на https://hub.docker.com/username_repo.<br>
+
 ## Ответ
 [hub.docker](https://hub.docker.com/layers/279601026/davlyatov/nginx/1.1.0/images/sha256-89020cd33be2767f3f894484b8dd77bc2e5a1ccc864350b92c53262213257dfc?context=repo)<br>
 ___________________
